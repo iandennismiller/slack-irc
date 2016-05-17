@@ -62,6 +62,7 @@ Valid JSON cannot contain comments, so remember to remove them first!
     "nickname": "test2",
     "server": "irc.testbot.org",
     "token": "slacktoken2",
+    "muteBots": false,
     "channelMapping": {
       "#other-slack": "#new-irc-channel"
     }
